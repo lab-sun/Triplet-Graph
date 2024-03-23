@@ -5,7 +5,7 @@ This is the code for Triplet-Graph. [[paper]](https://ieeexplore.ieee.org/abstra
 
 You are also very welcome to check my personal [Github](https://github.com/Weixin-Ma) for more frequent update.
 
-If you find TripletGraph helpful, please consider citing:
+If you find Triplet-Graph helpful, please consider citing:
 ```bibtex
 @ARTICLE{ma2024triplet,
   author={Ma, Weixin and Huang, Shoudong and Sun, Yuxiang},
