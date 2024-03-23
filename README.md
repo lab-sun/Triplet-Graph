@@ -54,7 +54,7 @@ For your convenience, you can download all required data [here](https://drive.go
 ## Run
 We provide three different `launch` files.
 
-*Note that you should replace file paths as yours appropriately in `config_kitti.yaml`. 
+*Note that you should replace file paths as yours appropriately in `config.yaml`. 
 
 
 * `tripletgraph_single_pair.launch` This launch file will only run TripletGraph on a single pair of LiDAR scan for the evaluated sequence with visualization using rviz. Please use the following command:
@@ -67,7 +67,7 @@ roslaunch tripletgraph tripletgraph_single_pair.launch
 roslaunch tripletgraph tripletgraph_part_seq.launch
 ```
 
-* `tripletgraph_entire_seq.launch` This launch file will run TripletGraph on all pairs of LiDAR scans for the evaluated sequence without visualization(for acceleration). It will take some time to be finished. Once finished, you should be able to find results in `/your path/tripletgraph_ws/src/tripletgraph/results/`, including `score.txt`, `rte.txt`, and `rre.txt`.
+* `tripletgraph_entire_seq.launch` This launch file will run TripletGraph on all pairs of LiDAR scans for the evaluated sequence without visualization(for acceleration). It will take some time to be finished. Once finished, you should be able to find results in `/your path/tripletgraph_ws/src/Triplet-Graph/results/`, including `score.txt`, `rte.txt`, and `rre.txt`.
 ```text
 roslaunch tripletgraph tripletgraph_entire_seq.launch
 ```
