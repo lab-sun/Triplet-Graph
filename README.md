@@ -3,6 +3,7 @@
 
 This is the code for Triplet-Graph. [[paper]](https://ieeexplore.ieee.org/abstract/document/10414178)
 
+You are also very welcome to check my personal [Github](https://github.com/Weixin-Ma) for more frequent update.
 
 If you find TripletGraph helpful, please consider citing:
 ```bibtex
@@ -78,8 +79,6 @@ Based on results files (or you can download [raw data](https://drive.google.com/
 # Contact
 If you have any questions, please contact:
 * Weixin Ma [<weixin.ma@connect.polyu.hk>]
-  
-You are also very welcome to check my personal [Github](https://github.com/Weixin-Ma) for more frequent update.
 
 
 # Support Material
